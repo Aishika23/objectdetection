@@ -1,0 +1,28 @@
+.inaput
+{
+    width: 50%;
+    height:10%;
+    border-radius:20px;
+    border-width: 2px;
+    text-align: center;
+}
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+  margin-top:50px;
+}
+body
+{
+    background-color: burlywood;
+    color: white;
+}
+button
+{
+  height: 10%;
+  width: 60%;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.593);
+  color: black;
+}
